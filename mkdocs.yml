@@ -1,0 +1,12 @@
+site_name: Mapping Mozzie
+site_author: Paul Schickler
+## copyright: copyright Paul Schickler 2021
+nav:
+    - Home: index.md
+    - Parts: parts/partslist.md
+    - Tasks: tasks/taskorder.md
+    - Tools & Supplies: toolsetc.md
+    - FAQ & notes: faq.md
+
+## theme: readthedocs
+theme: mkdocs
