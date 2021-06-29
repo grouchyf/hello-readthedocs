@@ -8,5 +8,5 @@ nav:
     - Tools & Supplies: toolsetc.md
     - FAQ & notes: faq.md
 
-## theme: readthedocs
-theme: mkdocs
+theme: readthedocs
+## theme: mkdocs
